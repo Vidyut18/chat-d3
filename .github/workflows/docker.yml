@@ -32,5 +32,5 @@ jobs:
           context: ./examples/react-app
           file: ./examples/react-app/Dockerfile
           push: true
-          tags: ghcr.io/${{ github.repository }}:latest
+          tags: ghcr.io/${{ github.repository }}
  
