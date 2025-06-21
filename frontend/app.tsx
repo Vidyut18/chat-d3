@@ -4,7 +4,7 @@ import Home from './routes/Home';
 import Index from './routes/Index';
 import Thread from './routes/Thread';
 import Settings from './routes/Settings';
-
+ 
 export default function App() {
   return (
     <BrowserRouter>
