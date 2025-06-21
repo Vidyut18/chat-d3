@@ -32,4 +32,4 @@ jobs:
           context: ./examples/react-app
           file: ./examples/react-app/Dockerfile
           push: true
-          tags: ghcr.io/${{ github.repository }}-react-app:latest
+          tags: ghcr.io/${{ github.repository }}:latest
