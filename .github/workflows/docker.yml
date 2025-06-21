@@ -32,5 +32,5 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/${{ github.repository }}
+          tags: ghcr.io/chat-d3
  
