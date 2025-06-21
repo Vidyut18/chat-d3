@@ -32,5 +32,5 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/vidyut18/chat-d3
+          tags: ghcr.io/vidyut18/chat-d3:latest
  
